@@ -1,0 +1,11 @@
+2023-09-26 21:30:25 INFO Test1 Starting
+2023-09-26 21:30:26 INFO Send test to element //span[text() = 'Username']/following::input[@type= 'text'][1]
+2023-09-26 21:30:26 INFO Send test to element //span[text() = 'Password']/following::input[@type= 'password'][1]
+2023-09-26 21:30:26 INFO Click login button
+2023-09-26 21:30:27 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2023-09-26 21:30:27 INFO Test2 Starting
+2023-09-26 21:30:27 INFO Send User_1_Login to element //span[text() = 'Username']/following::input[@type= 'text'][1]
+2023-09-26 21:30:27 INFO Send 6f831d56c2 to element //span[text() = 'Password']/following::input[@type= 'password'][1]
+2023-09-26 21:30:27 INFO Click login button
+2023-09-26 21:30:29 INFO Нашли текст *Blog* локатор Блог  
+2023-09-26 21:30:29 INFO Нашли текст *Blog* локатор Блог  
